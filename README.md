@@ -20,3 +20,8 @@
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
+</br>
+
+![Minseo's github stats](https://github-readme-stats.vercel.app/api?username=Aimtocode&show_icons=true)[![Minseo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimtocode&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Aimtocode)
+
+
