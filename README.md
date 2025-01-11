@@ -22,8 +22,15 @@
 
 </br>
 
-![Minseo's github stats](https://github-readme-stats.vercel.app/api?username=Aimtocode&show_icons=true)[![Minseo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimtocode&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Aimtocode)
+![Minseo's github stats](https://github-readme-stats.vercel.app/api?username=Aimtocode&show_icons=true)
+</br>
 
+[![Language Useage](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimtocode&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Aimtocode)
+
+
+</br>
 <h2>Baekjoon level</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msdaniel0702)](https://solved.ac/msdaniel0702/) 
 
 
