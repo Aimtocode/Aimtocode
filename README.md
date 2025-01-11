@@ -22,6 +22,7 @@
 
 </br>
 
+<h2> About Github </h2>
 ![Minseo's github stats](https://github-readme-stats.vercel.app/api?username=Aimtocode&show_icons=true)
 </br>
 
