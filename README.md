@@ -14,7 +14,7 @@
 <h2> Languages that I learned </h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![[Javascript]([https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white))
+![[Javascript]([[https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge))
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
